@@ -1,6 +1,3 @@
-Aqui está um modelo de README para seu repositório no GitHub:
-
-```markdown
 # 🌟 Repositório em Desenvolvimento 🌟
 
 ## 🚧 **Este repositório ainda não está 100% concluído** 🚧
@@ -28,6 +25,3 @@ Se você deseja contribuir para o projeto, fique à vontade para abrir uma *issu
 Não deixe de acompanhar o progresso e, quem sabe, sugerir novas funcionalidades. A ideia é sempre evoluir, e sua contribuição é essencial para isso!
 
 **Obrigado!** 💻✨
-```
-
-Esse modelo está estruturado para passar uma sensação de trabalho em progresso, deixando claro que o repositório não está finalizado e que melhorias estão sendo feitas. Você pode personalizar conforme necessário!
